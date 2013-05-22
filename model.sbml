@@ -10,7 +10,7 @@
       <species id="S3" name="S3" compartment="compartment" initialAmount="0" substanceUnits="substance"/>
     </listOfSpecies>
     <listOfParameters>
-      <parameter id="k1" name="k1" value="1"/>
+      <parameter id="k1" name="k1" value="2"/>
     </listOfParameters>
     <listOfReactions>
       <reaction id="reaction1" name="reaction1" reversible="false" fast="false">
