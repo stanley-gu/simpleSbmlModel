@@ -7,6 +7,7 @@
     <listOfSpecies>
       <species id="S1" name="S1" compartment="compartment" initialAmount="0.00015" substanceUnits="substance"/>
       <species id="S2" name="S2" compartment="compartment" initialAmount="0" substanceUnits="substance"/>
+      <species id="S3" name="S3" compartment="compartment" initialAmount="0" substanceUnits="substance"/>
     </listOfSpecies>
     <listOfParameters>
       <parameter id="k1" name="k1" value="1"/>
